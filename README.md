@@ -7,14 +7,13 @@
 - 🔭 I’m currently exploring **Machine Learning and Full Stack Development**
 - 👯 I’m looking to collaborate on **exciting full stack projects**
 - 🌱 I’m constantly learning new tools and technologies to grow as a developer
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Python, PyTorch**
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jainam-dosi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="dosijainamiitb@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Add more social links as needed -->
 </p>
 
