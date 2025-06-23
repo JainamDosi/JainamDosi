@@ -4,8 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently exploring **Machine Learning and Full Stack Development**
-- 👯 I’m looking to collaborate on **exciting full stack projects**
+- 🔭 I’m currently exploring **AI, ML and Full Stack Development**
+- 👯 I’m looking to collaborate on **exciting full stack , GenAI , Agentic AI projects**
 - 🌱 I’m constantly learning new tools and technologies to grow as a developer
 
 ---
