@@ -67,9 +67,10 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-  <img src="https://avatars.githubusercontent.com/u/110428103?s=200&v=4" width="40" height="40" alt="LangChain" />
-  <img src="https://avatars.githubusercontent.com/u/146242504?s=200&v=4" width="40" height="40" alt="LangGraph" />
+  <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langchain@master/docs/static/img/logo.svg" width="40" height="40" alt="LangChain" />
+  <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langgraph@main/docs/static/logo-light-mode.svg" width="40" height="40" alt="LangGraph" />
 </p>
+
 
 
 ---
