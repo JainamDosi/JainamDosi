@@ -62,7 +62,15 @@
 
 #### 🤖 AI / ML / DL
 
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="40" height="40" alt="LangChain" /> <img src="https://github.com/langchain-ai/langgraph/raw/main/docs/static/favicon.ico" width="40" height="40" alt="LangGraph" /> </p>
+### 🤖 AI / ML / DL
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://avatars.githubusercontent.com/u/110428103?s=200&v=4" width="40" height="40" alt="LangChain" />
+  <img src="https://avatars.githubusercontent.com/u/146242504?s=200&v=4" width="40" height="40" alt="LangGraph" />
+</p>
+
 
 ---
 
