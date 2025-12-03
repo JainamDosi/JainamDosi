@@ -13,8 +13,7 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/jainam-dosi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="dosijainamiitb@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Add more social links as needed -->
+  <a href="mailto:dosijainamiitb@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -37,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-
 </p>
 
 #### 🔧 Backend & Databases
@@ -60,7 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator" />
 </p>
 
-
 ### 🤖 AI / ML / DL
 
 <p>
@@ -70,15 +67,17 @@
   <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/public/logo.svg" width="40" height="40" alt="LangGraph" />
 </p>
 
-
-
 ---
 
-### 📊 GitHub Stats (Light Mode)
+### 📊 GitHub Stats (Working)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainamdosi&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainamdosi&layout=compact&theme=default" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jainamdosi&theme=default" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jainamdosi&theme=default" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jainamdosi&theme=default" width="45%" />
 </p>
 
 ---
