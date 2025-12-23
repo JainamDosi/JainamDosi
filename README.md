@@ -78,7 +78,7 @@
 
 ## 📊 GitHub Stats
 
-### 🔹 Overall GitHub Stats
+### 🔹 Overall Stats
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jainamdosi&show_icons=true&count_private=true&hide_border=true"
@@ -86,12 +86,29 @@
   />
 </p>
 
-
 ### 🔹 Top Languages
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainamdosi&layout=compact&hide_border=true"
     width="45%"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JainamDosi&theme=react-dark&bg_color=20232a&hide_border=true" 
+  width="100%"
+/>
+
+---
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=JainamDosi&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="jainamdosi profile views" 
   />
 </p>
 
