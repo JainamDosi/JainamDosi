@@ -1,117 +1,84 @@
-<h1 align="center">Hi 👋, I'm Jainam Dosi</h1>
-<h3 align="center">🚀 Full Stack Developer | GenAI & Agentic AI Enthusiast</h3>
+<h1 align="center">Jainam Dosi</h1>
 
----
+<p align="center">
+  Full-Stack Engineer · GenAI · Agentic Systems
+</p>
 
-## 👨‍💻 About Me
-
-- 🔭 Currently exploring **AI, ML, GenAI, and Full Stack Systems**
-- 🤖 Actively building **Agentic AI pipelines, RAG systems, and automation workflows**
-- 👯 Open to collaborating on **Full Stack, GenAI, and AI-agent–based projects**
-- 🌱 Continuously learning scalable system design and modern AI tooling
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jainam-dosi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jainam-dosi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dosijainamiitb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## About
 
-### 💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-</p>
+I build **production-grade full-stack systems** and **AI-driven workflows** with a strong focus on  
+**GenAI, Agentic architectures, and scalable backend design**.
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-</p>
-
-### 🔧 Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</p>
-
-### 📦 Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" />
-</p>
+- Exploring **AI, ML, GenAI, and distributed systems**
+- Building **Agentic AI pipelines, RAG systems, and automations**
+- Interested in **system design, developer tooling, and AI infrastructure**
+- Open to collaborating on **high-impact engineering projects**
 
 ---
 
-## 🤖 AI / ML / Agentic AI Stack
+## Tech Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph-logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" />
-  <img src="https://raw.githubusercontent.com/joaomdmoura/crewai/main/docs/assets/crewai-logo.png" width="40" />
-</p>
+### Languages
+[![Skills](https://skillicons.dev/icons?i=js,python,cpp&theme=light)]()
+
+### Frontend
+[![Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=light)]()
+
+### Backend & Databases
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=light)]()
+
+### Tools & Design
+[![Skills](https://skillicons.dev/icons?i=git,github,postman,figma,blender,ps,ai&theme=light)]()
 
 ---
 
-## 📊 GitHub Stats
+## AI / ML / Agentic Stack
 
-### 🔹 Overall Stats
+<p>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph-logo.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="36" />
+  <img src="https://raw.githubusercontent.com/joaomdmoura/crewai/main/docs/assets/crewai-logo.png" height="36" />
+</p>
+
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light)]()
+
+---
+
+## GitHub Metrics & Contributions
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jainamdosi&show_icons=true&count_private=true&hide_border=true"
-    width="55%"
-  />
+  <img src="https://metrics.lecoq.io/jainamdosi
+    ?template=classic
+    &base.header=0
+    &base.activity=0
+    &base.community=0
+    &base.repositories=0
+    &languages=1
+    &activity=1
+    &repositories=1
+    &calendar=1
+    &calendar.duration=full-year" />
 </p>
-
-### 🔹 Top Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainamdosi&layout=compact&hide_border=true"
-    width="45%"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=JainamDosi&theme=react-dark&bg_color=20232a&hide_border=true" 
-  width="100%"
-/>
 
 ---
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=JainamDosi&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="jainamdosi profile views" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamDosi&theme=github-compact&hide_border=true" />
 </p>
 
----
 
-⭐ **If you find my work interesting, feel free to star or connect.**
+<p align="center">
+  <sub>Build things. Ship fast. Learn relentlessly.</sub>
+</p>
